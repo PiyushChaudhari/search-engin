@@ -5,8 +5,8 @@ We require below software prerequisites.
 1) JDK Install (1.8.0_91)
 2) STS (Spring Tool Suite)
 3) Mongodb installed version 3.0.6
-4) Import project on Spring Tool Suite
-5) Gradle Version 4.6
+4) Gradle Version 4.6
+5) Import project on Spring Tool Suite
 6) Go to https://github.com/PiyushChaudhari/search-engin/blob/master/src/main/resources/application.properties and change below details 
 
   `'spring.data.mongodb.host'` mongodb running host name
